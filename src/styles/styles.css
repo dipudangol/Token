@@ -1,0 +1,74 @@
+#app {
+  font:14px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  color: 'red';
+  min-width: 550px;
+  max-width: 100%;
+  margin: 0 auto;
+}
+#rows{
+  background-image:url('http://www.everestbankltd.com/application/themes/ntech/images/themes/header_bg.png');
+  background-position:center;
+  background-size:auto;
+  background-repeat:no-repeat;
+}
+
+.ButtonStyle{
+  padding-top: 20px;
+  padding-left:30%; 
+  padding-right: 20%;
+  padding-bottom: 5px;
+  height: relative;
+}
+.advert{
+  text-align: center;
+  padding-top: 10px;
+}
+/*a.active {*/
+  /*color:orange;*/
+/*}*/
+a {color:#FFFFFF;}      /* unvisited link */
+a:visited {color:#FFFFFF;}  /* visited link */
+a:hover {color:#FFFFFF;}  /* mouse over link */
+a:active {color:#FFFFFF;}  /* selected link */
+a.table-link {color:#0000FF;}
+img.img-responsive {
+  height: 150px;
+}
+img.img-logo {
+  height: 100px;
+}
+.nav {
+  background: #E4ECF6;
+  text-align: center;
+  color: #ff9966;
+}
+.savant-logo {
+  background: white;
+  height: 100px;
+}
+.left-side-bar {
+  background: #32557D;
+  color: white;
+  font-size: medium;
+  height: 600px;
+}
+.pagelink {
+  color: white;
+}
+
+/*.container-page {*/
+  /*flex: auto;*/
+/*}*/
+
+.panel-body {
+  background: #32557D;
+  border: 0;
+}
+/*.panel {*/
+  /*border: 0;*/
+/*}*/
+
+/* for Search box */
+table, tr, td{
+  border: 1px solid black;
+}
